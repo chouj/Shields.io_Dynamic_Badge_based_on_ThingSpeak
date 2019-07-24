@@ -1,6 +1,8 @@
 # Shields.io_Dynamic_Badge_based_on_ThingSpeak
 A demo for creating Shields.io Dynamic Badge based on ThingSpeak Channel Data
 
+介绍在[这里](https://xuchi.name/posts/dynamic-shieldsio-badge/)
+
 ![](https://img.shields.io/badge/dynamic/xml.svg?color=yellow&label=t.me/matlab_tips&query=%2F%2Fchannel%2Ffeeds%2Ffeed%2Ffield2&url=https%3A%2F%2Fapi.thingspeak.com%2Fchannels%2F343156%2Ffeeds.xml%3Fresults%3D1&suffix=%20subscribers) ![https://img.shields.io/badge/Powered%20by-RSS-orange.svg?style=plastic&logo=rss](https://img.shields.io/badge/Powered%20by-RSS-orange.svg?logo=rss)
 
 ![](https://img.shields.io/badge/dynamic/xml.svg?color=lightgrey&label=t.me/awesomeguangzhou&query=%2F%2Fchannel%2Ffeeds%2Ffeed%2Ffield3&url=https%3A%2F%2Fapi.thingspeak.com%2Fchannels%2F343156%2Ffeeds.xml%3Fresults%3D1&suffix=%20subscribers) ![https://img.shields.io/badge/Powered%20by-RSS-orange.svg?style=plastic&logo=rss](https://img.shields.io/badge/Powered%20by-RSS-orange.svg?logo=rss)
